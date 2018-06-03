@@ -89,7 +89,7 @@ class _HomePageState extends State<HomePage> {
         return musicPage;
     }
   }
-
+  //获取标题的方法
   _getTitle() {
     switch (index) {
       case 0:
@@ -109,8 +109,8 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return new DefaultTabController(
-      length: 3,
-      initialIndex: 0,
+      length: 3,// 长度为3
+      initialIndex: 0,// 默认索引0
       child: new Scaffold(
         appBar: new AppBar(
           title: _getTitle(),
