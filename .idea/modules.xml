@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/batterylevel_android.iml" filepath="$PROJECT_DIR$/batterylevel_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flutter_demo.iml" filepath="$PROJECT_DIR$/.idea/flutter_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_demo.iml" filepath="$PROJECT_DIR$/flutter_demo.iml" />
     </modules>
   </component>
